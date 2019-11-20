@@ -1,0 +1,60 @@
+#gradient {
+    height: 100px;
+}
+
+#menu-container-top ul {
+    padding: 0;
+}
+
+#menu-container-top ul.main-menu li {
+    margin: 0;
+    width: 50%;
+    float: left;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+#menu-container-top ul.main-menu li:last-of-type {
+    float: none;
+}
+
+div#main-index h1 {
+    font-size: 2.5em;
+    max-width: 90%;
+}
+
+div.dog-div .info-box h2 {
+    padding: 100px 0 0;
+}
+
+div.dog-div .info-box h2:before {
+    display: block;
+    margin: 20px auto;
+}
+
+div.dog-div .info-box {
+    text-align: center;
+    padding: 0 0 5% 0;
+}
+
+div.dog-div .info-box p {
+    padding: 0;
+}
+
+#footer {
+    text-align: center;
+}
+
+#footer div {
+    margin: 15px 0;
+}
+
+#footer .seperator:before {
+    content: "";
+    display: block;
+    margin: 15px 0;
+}
+
+div.dog-div div picture * {
+    width: 100%;
+}
