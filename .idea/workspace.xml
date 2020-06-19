@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5986749b-7acf-41ba-928b-0cde0e6625f8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/hotdog.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/hotdog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/header.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +74,8 @@
       <workItem from="1571241531300" duration="26000" />
       <workItem from="1571241619890" duration="7859000" />
       <workItem from="1571257409147" duration="26829000" />
+      <workItem from="1574377721738" duration="763000" />
+      <workItem from="1574382496607" duration="615000" />
     </task>
     <servers />
   </component>
@@ -84,7 +87,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
